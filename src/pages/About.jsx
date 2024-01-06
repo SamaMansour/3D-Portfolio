@@ -22,14 +22,14 @@ const About = () => {
 
       <div className='mt-10 flex flex-col gap-3 font-sans text-slate-500'>
         <p>
-          Hi, I am Emilian Kasemi. I am a Software Engineer. I am from Albania.
+          Hi, I am Sama Mansour. I am a Software Engineer.
         </p>
         <p>
-          Front-End Engineer / Creative Developer / Game Developer Seeking to
-          take the next step in my career, I am constantly updating my
-          expertise, from Web Development to Game Design. Currently, I am
-          working as a Front-End Engineer at OMRT. OMRT builds a Deep Tech
-          design platform for real estate development.
+          I hold a degree in Computer Science from Princess Sumaya
+          University for Technology (PSUT) and am currently in search of an
+          entry-level position at a reputable company. My goal is to further
+          refine my abilities as a software developer while contributing to the
+          success of the organization.
         </p>
       </div>
 
@@ -58,7 +58,7 @@ const About = () => {
         </div>
       </div>
 
-      
+
     </section>
   );
 };
